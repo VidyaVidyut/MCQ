@@ -2,7 +2,7 @@
 
 [Powered by ChatGPT ](https://chat.openai.com/chat/)
 
-1. What is SQL used for?
+1. What is the full form of SQL?
 a. Structured Query Language
 b. Standard Query Logic
 c. Simple Query Logic
