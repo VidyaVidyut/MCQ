@@ -1,0 +1,72 @@
+1. What is SQL?
+a. Structured Query Language
+b. Simple Query Logic
+c. Structured Query Logic
+d. Simple Query Language
+
+2. What is the most commonly used database management system?
+a. MongoDB
+b. Oracle
+c. Microsoft SQL Server
+d. MySQL
+
+3. Which of the following is not a type of SQL join?
+a. Inner Join
+b. Right Join
+c. Left Join
+d. Cross Join
+
+4. What does DDL stand for in SQL?
+a. Data Definition Logic
+b. Data Distribution Layer
+c. Data Distribution Logic
+d. Data Definition Layer
+
+5. What is a transaction in SQL?
+a. A set of actions that are executed together as a single unit of work
+b. A single query execution
+c. A single database insertion
+d. A single database deletion
+
+6. What is the use of a subquery in SQL?
+a. To execute multiple queries in a single statement
+b. To extract data from multiple tables in a single statement
+c. To execute a query within another query
+d. To execute a statement within another statement
+
+7. What is a primary key in SQL?
+a. A unique identifier for each row in a table
+b. A unique identifier for each column in a table
+c. A unique identifier for each database
+d. A unique identifier for each table
+
+8. What is the difference between DELETE and TRUNCATE statements in SQL?
+a. DELETE is a DDL statement and TRUNCATE is a DML statement
+b. DELETE can be rolled back and TRUNCATE cannot
+c. TRUNCATE is a DDL statement and DELETE is a DML statement
+d. TRUNCATE can be rolled back and DELETE cannot
+
+9. What is a view in SQL?
+a. A virtual table based on the result of an SQL statement
+b. A real table stored in the database
+c. An index on a table
+d. A temporary table created for a specific purpose
+
+10. What is a trigger in SQL?
+a. A piece of code that is executed automatically in response to specific events on a table
+b. A function that is executed in response to a query
+c. An event that is triggered when data is updated in a table
+d. A procedure that is executed in response to a user action.
+
+Answers:
+
+1. a
+2. d
+3. d
+4. a
+5. a
+6. c
+7. a
+8. b
+9. a
+10. a
