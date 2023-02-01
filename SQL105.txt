@@ -1,0 +1,76 @@
+# SQL MCQ 105
+
+1. What is SQL used for?
+A) Data analysis
+B) Web development
+C) Database management
+D) Image processing
+
+2. Which SQL statement is used to retrieve data from a database?
+A) INSERT INTO
+B) DELETE FROM
+C) SELECT
+D) UPDATE
+
+3. What does DDL stand for in SQL?
+A) Data Definition Language
+B) Data Description Language
+C) Data Design Language
+D) Data Development Language
+
+4. What does DML stand for in SQL?
+A) Data Management Language
+B) Data Modification Language
+C) Data Manipulation Language
+D) Data Maintenance Language
+
+5. Which SQL statement is used to insert data into a database?
+A) SELECT
+B) INSERT INTO
+C) UPDATE
+D) DELETE FROM
+
+6. What is a primary key in SQL?
+A) A unique identifier for each row in a table
+B) A value that is used to identify a specific column in a table
+C) A type of index used to enforce unique values in a table
+D) A type of constraint used to enforce referential integrity in a database
+
+7. What is a foreign key in SQL?
+A) A value that is used to identify a specific column in a table
+B) A type of index used to enforce unique values in a table
+C) A type of constraint used to enforce referential integrity in a database
+D) A unique identifier for each row in a table
+
+8. Which SQL statement is used to modify data in a database?
+A) SELECT
+B) INSERT INTO
+C) UPDATE
+D) DELETE FROM
+
+9. What does JOIN in SQL do?
+A) It combines the data from two or more tables based on a related column between them
+B) It creates a new table with the data from two or more existing tables
+C) It retrieves data from a single table based on specific conditions
+D) It modifies the data in two or more tables simultaneously
+
+10. What is a subquery in SQL?
+A) A query that returns data to be used in another query
+B) A query that creates a new table with data from another table
+C) A query that modifies data in a table
+D) A query that retrieves data from a single table based on specific conditions
+
+
+Answers:
+1. C) Database management
+2. C) SELECT
+3. A) Data Definition Language
+4. C) Data Manipulation Language
+5. B) INSERT INTO
+6. A) A unique identifier for each row in a table
+7. C) A type of constraint used to enforce referential integrity in a database
+8. C) UPDATE
+9. A) It combines the data from two or more tables based on a related column between them
+10. A) A query that returns data to be used in another query
+
+
