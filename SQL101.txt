@@ -57,6 +57,7 @@ c. NEW
 d. BUILD
 
 10. What does the GROUP BY clause do in SQL?
+
 a. Groups rows by specified columns
 b. Separates rows by specified columns
 c. Joins rows by specified columns
