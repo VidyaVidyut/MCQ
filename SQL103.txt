@@ -1,0 +1,69 @@
+What is SQL used for?
+A. Storing and retrieving data
+B. Web Design
+C. Graphics Design
+D. Video Editing
+Answer: A
+
+What is a database management system?
+A. A system that allows you to store and manage data
+B. A program used for data backup
+C. A software used for video editing
+D. A graphics design tool
+Answer: A
+
+What does SQL stand for?
+A. Structured Query Language
+B. Simple Query Logic
+C. System Query Logic
+D. Structured Query Logic
+Answer: A
+
+What is a table in SQL?
+A. A collection of data
+B. A database management system
+C. A program used for data backup
+D. A graphics design tool
+Answer: A
+
+What is the syntax to select all the columns from a table in SQL?
+A. SELECT * FROM table_name;
+B. SELECT ALL FROM table_name;
+C. SELECT ALL COLUMNS FROM table_name;
+D. SELECT table_name;
+Answer: A
+
+What is the syntax to select specific columns from a table in SQL?
+A. SELECT * FROM table_name;
+B. SELECT column1, column2, ..., columnN FROM table_name;
+C. SELECT ALL COLUMNS FROM table_name;
+D. SELECT table_name;
+Answer: B
+
+What is the syntax to insert data into a table in SQL?
+A. INSERT INTO table_name VALUES (value1, value2, ..., valueN);
+B. INSERT INTO table_name (column1, column2, ..., columnN) VALUES (value1, value2, ..., valueN);
+C. INSERT INTO table_name SET (column1, column2, ..., columnN) = (value1, value2, ..., valueN);
+D. INSERT INTO table_name (value1, value2, ..., valueN);
+Answer: B
+
+What is the syntax to update data in a table in SQL?
+A. UPDATE table_name SET column1 = value1, column2 = value2, ..., columnN = valueN WHERE condition;
+B. UPDATE SET column1 = value1, column2 = value2, ..., columnN = valueN WHERE condition IN table_name;
+C. UPDATE table_name SET (column1, column2, ..., columnN) = (value1, value2, ..., valueN) WHERE condition;
+D. UPDATE table_name (column1, column2, ..., columnN) = (value1, value2, ..., valueN) WHERE condition;
+Answer: A
+
+What is the syntax to delete data from a table in SQL?
+A. DELETE FROM table_name WHERE condition;
+B. DELETE * FROM table_name WHERE condition;
+C. DELETE table_name WHERE condition;
+D. REMOVE FROM table_name WHERE condition;
+Answer: A
+
+What is the syntax to retrieve unique values from a column in SQL?
+A. SELECT DISTINCT column_name FROM table_name;
+B. SELECT UNIQUE column_name FROM table_name;
+C. SELECT column_name UNIQUE FROM table_name;
+D. SELECT column_name FROM table_name DISTINCT;
+Answer: A
