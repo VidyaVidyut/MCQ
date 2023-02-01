@@ -1,3 +1,6 @@
+# SQL MCQ 102
+
+
 1. What is SQL used for?
 A. To store data
 B. To manipulate data
@@ -5,12 +8,6 @@ C. To create websites
 D. To design interfaces
 Answer: B
 
-2. What is the full form of SQL?
-A. Structured Query Language
-B. Simple Query Language
-C. Structured Query List
-D. Simple Query Library
-Answer: A
 
 Which of the following is used to retrieve data from a database?
 A. SELECT
@@ -35,13 +32,6 @@ Answer: D
 
 What is the use of the HAVING clause in SQL?
 A. To filter data after a group operation
-B. To sort data
-C. To limit data
-D. To update data
-Answer: A
-
-What is the use of the GROUP BY clause in SQL?
-A. To group data based on a specific column
 B. To sort data
 C. To limit data
 D. To update data
