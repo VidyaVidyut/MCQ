@@ -1,0 +1,73 @@
+1. What is SQL used for?
+A. To store data
+B. To manipulate data
+C. To create websites
+D. To design interfaces
+Answer: B
+
+2. What is the full form of SQL?
+A. Structured Query Language
+B. Simple Query Language
+C. Structured Query List
+D. Simple Query Library
+Answer: A
+
+Which of the following is used to retrieve data from a database?
+A. SELECT
+B. INSERT
+C. UPDATE
+D. DELETE
+Answer: A
+
+What is the use of the WHERE clause in SQL?
+A. To sort the data
+B. To group the data
+C. To limit the data being retrieved
+D. To update the data
+Answer: C
+
+Which of the following is not a data type in SQL?
+A. INT
+B. FLOAT
+C. CHAR
+D. VARCHAR
+Answer: D
+
+What is the use of the HAVING clause in SQL?
+A. To filter data after a group operation
+B. To sort data
+C. To limit data
+D. To update data
+Answer: A
+
+What is the use of the GROUP BY clause in SQL?
+A. To group data based on a specific column
+B. To sort data
+C. To limit data
+D. To update data
+Answer: A
+
+What is the use of the INNER JOIN in SQL?
+A. To join two tables and retrieve only matching records
+B. To join two tables and retrieve only non-matching records
+C. To join two tables and retrieve all records
+D. None of the above
+Answer: A
+
+What is the use of the LEFT JOIN in SQL?
+A. To join two tables and retrieve only matching records
+B. To join two tables and retrieve only non-matching records from the left table
+C. To join two tables and retrieve all records from the left table
+D. None of the above
+Answer: C
+
+What is the use of the RIGHT JOIN in SQL?
+A. To join two tables and retrieve only matching records
+B. To join two tables and retrieve only non-matching records from the right table
+C. To join two tables and retrieve all records from the right table
+D. None of the above
+Answer: C
+
+
+
+Answers :
