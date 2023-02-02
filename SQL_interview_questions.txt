@@ -1,0 +1,20 @@
+What is SQL and what is it used for?
+Can you explain the difference between a primary key and a foreign key?
+What is normalization in SQL and why is it important?
+How would you retrieve data from multiple tables using a join?
+What is a subquery in SQL and how is it used?
+Can you explain the difference between a clustered and non-clustered index in SQL?
+What is a stored procedure in SQL and when would you use one?
+How would you enforce data integrity in a database using constraints?
+Can you explain the difference between a trigger and a stored procedure in SQL?
+What is a transaction in SQL and how does it ensure data consistency and integrity?
+How would you optimize a slow-performing SQL query?
+Can you describe the basic structure of an SQL statement?
+What is a view in SQL and how is it used?
+How would you implement security in a database using SQL?
+Can you explain the difference between a left join and a right join in SQL?
+Can you describe the use of group by and having clauses in SQL?
+How would you perform a backup and restore of a database in SQL?
+Can you explain the difference between a union and a union all in SQL?
+Can you describe how to handle null values in SQL?
+Can you explain the use of aggregate functions in SQL, such as SUM, AVG, MIN and MAX?
